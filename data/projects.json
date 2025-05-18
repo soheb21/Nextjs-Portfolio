@@ -1,0 +1,110 @@
+[
+  {
+    "id": 1,
+    "title": "Fascle",
+    "description": "Developed Fascle, a responsive dashboard application using the MERN stack (MongoDB, Express, React, Node.js), showcasing advanced UI/UX and performance features including dynamic sorting, pagination, filtration, and debounced search. Integrated Cloudinary for secure image hosting.",
+    "techStack": ["MERN Stack", "Cloudinary", "React-Toastify"],
+    "liveUrl": "https://fascle-20021101.netlify.app/",
+    "githubUrl": "https://github.com/soheb21/Fascle-MERN",
+    "image": "https://res.cloudinary.com/dltyg0rhx/image/upload/v1732112019/SHOEB-Project/kpg8h24wlhszki2keatn.png"
+  },
+  {
+    "id": 2,
+    "title": "AnimeFy (MERN-Stack)",
+    "description": "A dynamic interface for watching anime trailers and accessing detailed anime info. Includes admin dashboard for uploading content and managing users, implemented with ReactJS and TailwindCSS.",
+    "techStack": ["MERN", "Redux Toolkit", "JWT", "Bcrypt", "Cloudinary", "React-Toastify", "TailwindCSS"],
+    "liveUrl": "https://66a2601df0bff6009714e7da--preeminent-pegasus-3e1690.netlify.app/",
+    "githubUrl": "https://github.com/soheb21/AnimeFy",
+    "image": "https://res.cloudinary.com/dltyg0rhx/image/upload/v1730888509/SHOEB-Project/tqdleawitscqbcapqfbi.png"
+  },
+  {
+    "id": 3,
+    "title": "My Portfolio (MERN Stack)",
+    "description": "A full-featured portfolio website with an integrated admin panel for dynamic content management, authentication, and cloud image management.",
+    "techStack": ["MERN Stack", "Redux Toolkit", "Cloudinary", "JWT", "Bcrypt", "Shadcn-UI", "TailwindCSS", "React-Notify", "React-Typewriter"],
+    "liveUrl": "https://shoeb-portfolio-41b65.web.app/",
+    "githubUrl": "https://github.com/soheb21/React-Portfolio",
+    "image": "https://res.cloudinary.com/dltyg0rhx/image/upload/v1730888060/SHOEB-Project/oegipxolu8ukya0hkjhg.png"
+  },
+  {
+    "id": 4,
+    "title": "Task Manager (MERN Stack)",
+    "description": "Task management app with secure authentication using JWT, CRUD operations for tasks, Redux Toolkit for state management, and responsive UI.",
+    "techStack": ["MERN", "Redux Toolkit", "JWT", "Bcrypt", "Cloudinary", "TailwindCSS", "React-Notify"],
+    "liveUrl": "https://task-manager-2024.netlify.app/login",
+    "githubUrl": "https://github.com/soheb21/Task-Manager",
+    "image": "https://res.cloudinary.com/dltyg0rhx/image/upload/v1730887675/SHOEB-Project/uwolfzazl8o7q4g7u4ch.png"
+  },
+  {
+    "id": 5,
+    "title": "AI-Info-Generator (MERN)",
+    "description": "An AI generator supporting summarization, text-to-paragraph, sci-fi image generation, code generation, and chatbot using OpenAI API with JWT authentication.",
+    "techStack": ["MERN", "Redux Toolkit", "OpenAI API", "TailwindCSS"],
+    "liveUrl": "https://aigenerator-c9dn.onrender.com/",
+    "githubUrl": "https://github.com/soheb21/AI",
+    "image": "https://res.cloudinary.com/dltyg0rhx/image/upload/v1730887428/SHOEB-Project/cplvivs6tkqnujicbv3z.png"
+  },
+  {
+    "id": 6,
+    "title": "E-Commerce Web-App (MERN)",
+    "description": "A full-featured eCommerce platform with Redux Toolkit for state management, JWT authentication, Stripe payment integration, and admin panel for product and user management.",
+    "techStack": ["ReactJS", "Redux Toolkit", "React-Notify", "Axios", "Passport-Auth", "Stripe-Payment"],
+    "liveUrl": "https://mern-ecommerce-smoky.vercel.app/",
+    "githubUrl": "https://github.com/soheb21/MERN-Ecommerce",
+    "image": "https://res.cloudinary.com/dltyg0rhx/image/upload/v1730887245/SHOEB-Project/eagl5z1v18ntr640jt0j.png"
+  },
+  {
+    "id": 7,
+    "title": "Zip-Code-Information (React JS)",
+    "description": "Fetches detailed location info based on postal codes using third-party API, with map integration and responsive UI built with React, Redux Toolkit, and TailwindCSS.",
+    "techStack": ["ReactJS", "Redux Toolkit", "Swiper", "Spinners-react", "Axios"],
+    "liveUrl": "https://sparkling-kashata-fdac93.netlify.app/",
+    "githubUrl": "https://github.com/soheb21/-Zip-Code-Information-App---React",
+    "image": "https://res.cloudinary.com/dltyg0rhx/image/upload/v1730886546/SHOEB-Project/dvnuqhrynfwwc1g5bopl.png"
+  },
+  {
+    "id": 8,
+    "title": "Telegram Clone",
+    "description": "UI clone of Telegram app with search filter and dark mode toggle, built with ReactJS and TailwindCSS.",
+    "techStack": ["ReactJS", "TailwindCSS"],
+    "liveUrl": "https://main--guileless-seahorse-b89646.netlify.app/",
+    "githubUrl": "https://github.com/soheb21/Telegram-UI-Clone",
+    "image": "https://res.cloudinary.com/dltyg0rhx/image/upload/v1730886227/SHOEB-Project/w9k1z69adiggrelwavfw.png"
+  },
+  {
+    "id": 9,
+    "title": "Baller Dashboard",
+    "description": "Dashboard built with ReactJS, Redux Toolkit, json-server for dummy API, and TailwindCSS for responsive design.",
+    "techStack": ["ReactJS", "Redux Toolkit", "TailwindCSS"],
+    "liveUrl": "https://ballers-dashboard-test.vercel.app/login",
+    "githubUrl": "https://github.com/soheb21/Ballers_Dashboard_Test",
+    "image": "https://res.cloudinary.com/dltyg0rhx/image/upload/v1730885980/SHOEB-Project/zv4pug8uqrpdrvdzmu7v.png"
+  },
+  {
+    "id": 10,
+    "title": "Blood Bank (MERN Stack)",
+    "description": "A blood donation and request platform with JWT authentication, Redux Toolkit for state management, and data visualization with React-Chart.",
+    "techStack": ["MERN Stack", "Redux"],
+    "liveUrl": "",
+    "githubUrl": "https://github.com/soheb21/MERN-Blood-Stock",
+    "image": "https://res.cloudinary.com/dltyg0rhx/image/upload/v1730885790/SHOEB-Project/rwrhhgudbj47rd44uuuz.png"
+  },
+  {
+    "id": 11,
+    "title": "EducFy",
+    "description": "Responsive college portal with course listings, faculty profiles, and event calendar, designed for seamless user experience.",
+    "techStack": ["ReactJS", "JavaScript", "CSS3"],
+    "liveUrl": "https://peppy-tarsier-0bcd1d.netlify.app/",
+    "githubUrl": "https://github.com/soheb21/Edufy",
+    "image": "https://res.cloudinary.com/dltyg0rhx/image/upload/v1730885295/SHOEB-Project/xyochm9griztzwwsgtvo.png"
+  },
+  {
+    "id": 12,
+    "title": "Dr Appointment System",
+    "description": "Users can book appointments with doctors, and admins can manage users and doctors via a dashboard.",
+    "techStack": ["MERN Stack", "Redux"],
+    "liveUrl": "www.youtube.com",
+    "githubUrl": "www.github.com",
+    "image": "https://res.cloudinary.com/dltyg0rhx/image/upload/v1727783807/SHOEB-Project/ytof20uy1rs2vkiqy26n.png"
+  }
+]
