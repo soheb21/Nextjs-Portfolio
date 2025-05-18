@@ -3,7 +3,7 @@ import Image from "next/image";
 import { useEffect, useState } from "react";
 
 export default function Navbar() {
-  let navContent=[
+  const navContent=[
     {
       name:"Home",
       link:"#"
